@@ -12,7 +12,7 @@ Ce dépôt contient un modèle de projection actuariel pour contrats d'assurance
 - ✅ État des lieux du code VBA actuel
 - ❌ Identification des 6 catégories de faiblesses majeures
 - ✨ Bénéfices de la migration vers R
-- 🗺️ Plan de migration détaillé (20 semaines)
+- 🗺️ Plan de migration détaillé (24 semaines)
 - 💰 ROI estimé à 750% sur 3 ans
 
 ## 🏗️ Structure Actuelle (VBA)
